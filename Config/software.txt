@@ -1,10 +1,16 @@
 Blender
-3ds Max
+Maya
+Unreal Engine
+Houdini
 Unity
+IlluGen
+EmberGen
+LiquiGen
 Zbrush
+Python
 Adobe Photoshop
 Topogun
 Substance 3d Painter
 Marvelous Designer
-Maya
+3ds Max
 Marmoset Toolbag
