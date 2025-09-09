@@ -1,0 +1,9 @@
+Sniper Wolf
+---
+Hello guys, I present to you my artistic vision of Sniper Wolf from Metal Gear Solid. The entire process took 3 months. I undertook this project to study how to implement a playable character in Unreal Engine; it was a lengthy learning process. I didn't have complete experience with the entire process yet, but I managed to successfully complete it.
+---
+Blender, Maya, Substance 3D Painter, Substance 3D Designer, RizomUV, Unreal Engine
+---
+https://cdnb.artstation.com/p/assets/covers/images/077/426/285/small_square/william-solomon-william-solomon-sniperwolf-wsolomoncapa.jpg?1719416666
+---
+sniper-wolf

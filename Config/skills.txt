@@ -1,6 +1,9 @@
 3D Modelling
-Sculpting
 Texturing
+VFX | Real time
+Pipeline Automation
+Tools
+Sculpting
 High Poly Modelling
 UV-Unwrapping
 Retopology
@@ -8,4 +11,3 @@ Hand-painted Texturing
 Weapon Modelling
 Environment Art
 Tileable Materials
-punching faces

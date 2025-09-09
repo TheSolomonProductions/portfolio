@@ -27,7 +27,7 @@ function addUserInformation() {
 
             // Create and append the image
             const img = document.createElement("img");
-            img.src = profilePicUrl; // Your Profile Pic URL from txt
+            img.src = "Resources/favicon/GrayFoxProfilePicture.png"; // Your Profile Pic URL from txt
             img.alt = "Profile Picture";
             img.className = "profile-pic";
             userInfoPanel.appendChild(img);
