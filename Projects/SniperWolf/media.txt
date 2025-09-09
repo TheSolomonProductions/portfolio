@@ -1,7 +1,7 @@
-https://example1.png
+https://cdnb.artstation.com/p/assets/images/images/074/811/193/large/william-solomon-imagem-2024-04-13-122940627.jpg?1713022265
 Descriptions go under each image like this! png/jpeg/jpg/gif supported.
 
-https://example2.jpg
+https://cdnb.artstation.com/p/assets/images/images/074/811/133/large/william-solomon-sniperwolf-wsolomon-0001.jpg?1713022114
 Description for example2.jpg.
 
 https://example3.gif
@@ -10,7 +10,7 @@ These aren't real images but need replacing with your own.
 https://examplevideo.mp4
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
-https://beforepic.png // https://afterpic.png
+https://cdnb.artstation.com/p/assets/images/images/074/811/243/large/william-solomon-stories001.jpg?1713022469 // https://afterpic.png
 You can create before and after slider by seperating two urls with ' // ' 
 
 https://sketchfabexample.com 
