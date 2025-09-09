@@ -6,4 +6,4 @@ Blender, Maya, Substance 3D Painter, Substance 3D Designer, RizomUV, Unreal Engi
 ---
 https://cdnb.artstation.com/p/assets/covers/images/077/426/285/small_square/william-solomon-william-solomon-sniperwolf-wsolomoncapa.jpg?1719416666
 ---
-sniper-wolf
+sniper-wolf.html
