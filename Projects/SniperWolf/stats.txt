@@ -1,13 +1,13 @@
 Triangles: 
 
-Materials: 
+Materials: 9
 
-Texture Size: 
+Texture Size: 4k
 
 Texel Density: 
 
-Workflow: 
+Workflow: PBR
 
-Target Engine: 
+Target Engine: Unreal Engine
 
 Collaborators:
