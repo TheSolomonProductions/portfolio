@@ -6,4 +6,4 @@ Blender, Subtance 3D Painter, RizomUV, Cycles
 ---
 https://cdnb.artstation.com/p/assets/images/images/048/608/921/20220420113406/small_square/william-solomon-004.jpg?1650472446 //tumb
 ---
-name of project html ("xyz.html" for example - make sure you rename the template html)
+grayfox.html
