@@ -1,12 +1,12 @@
 Triangles: 
 
-Materials: 9
+Materials: 9 (body/ clothes/ hair/ gun)
 
 Texture Size: 4k
 
 Texel Density: 
 
-Workflow: PBR
+Workflow: PBR (Metal/Gloss)
 
 Target Engine: Unreal Engine
 
